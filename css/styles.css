@@ -334,3 +334,21 @@ img.partners:hover {
 	background-size: 25px 25px;
 	filter: opacity(15%);
 }
+
+.social-profiles i {
+	margin: 0 10px;
+	font-size: 30px;
+}
+
+
+.social-profiles .fa-instagram {
+	color: #e1306c;
+}
+
+.social-profiles .fa-twitter {
+	color: #1da1f2;
+}
+
+.social-profiles .fa-linkedin {
+	color: #0077b5;
+}

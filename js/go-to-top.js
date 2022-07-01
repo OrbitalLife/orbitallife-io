@@ -1,5 +1,5 @@
 document.addEventListener ('DOMContentLoaded', () => {
-	// Show a go-to-top button when page scrolls (only on mobile)
+	// Show a go-to-top button when page scrolls
 	let btn = document.getElementById('go-to-top');
 	window.addEventListener ('scroll', () => {
 		if (document.body.clientWidth >= 1024 && (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20)) {
